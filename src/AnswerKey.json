@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "numberOfQues": 25,
+    "answers": ["A", "D", "B", "C", "A", "D", "E", "A", "A", "A", "A", "A"]
+  },
+  {
+    "id": 2,
+    "numberOfQues": 23,
+    "answers": ["A", "D", "B", "C", "A", "D", "E", "A", "A", "A", "A", "A"]
+  },
+  {
+    "id": 3,
+    "numberOfQues": 26,
+    "answers": ["A", "D", "B", "C", "A", "D", "E", "A", "A", "A", "A", "A"]
+  },
+  {
+    "id": 4,
+    "numberOfQues": 25,
+    "answers": ["A", "D", "B", "C", "A", "D", "E", "A", "A", "A", "A", "A"]
+  }
+]

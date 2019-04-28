@@ -1,0 +1,70 @@
+[
+  {
+    "numberOfQues": 25,
+    "name": "Section 1-Logical Reasoning",
+    "id": 1,
+    "subsections": [
+      {
+        "start": 1,
+        "end": 25
+      }
+    ]
+  },
+  {
+    "numberOfQues": 23,
+    "name": "Section 2-Logic Games",
+    "id": 2,
+    "subsections": [
+      {
+        "start": 1,
+        "end": 6
+      },
+      {
+        "start": 7,
+        "end": 12
+      },
+      {
+        "start": 13,
+        "end": 17
+      },
+      {
+        "start": 18,
+        "end": 23
+      }
+    ]
+  },
+  {
+    "numberOfQues": 26,
+    "name": "Section 3-Reading Comp",
+    "id": 3,
+    "subsections": [
+      {
+        "start": 1,
+        "end": 6
+      },
+      {
+        "start": 7,
+        "end": 13
+      },
+      {
+        "start": 14,
+        "end": 19
+      },
+      {
+        "start": 20,
+        "end": 26
+      }
+    ]
+  },
+  {
+    "numberOfQues": 25,
+    "id": 4,
+    "name": "Section 4 -Logical Reasoning",
+    "subsections": [
+      {
+        "start": 1,
+        "end": 25
+      }
+    ]
+  }
+]
